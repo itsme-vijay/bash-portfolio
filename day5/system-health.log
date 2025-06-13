@@ -1,0 +1,84 @@
+=============================
+2025-06-07 13:42:27
+=============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+RAM Usage:
+               total        used        free      shared  buff/cache   available
+Mem:             957         332         337           0         441         625
+Swap:              0           0           0
+
+🗃️ Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.5G  4.3G  37% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  872K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  137M  683M  17% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+=============================
+2025-06-07 13:43:23
+=============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+RAM Usage:
+               total        used        free      shared  buff/cache   available
+Mem:             957         332         337           0         441         625
+Swap:              0           0           0
+
+🗃️ Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.5G  4.3G  37% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  872K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  137M  683M  17% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+=============================
+2025-06-07 14:10:44
+=============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+RAM Usage:
+               total        used        free      shared  buff/cache   available
+Mem:             957         338         292           0         487         619
+Swap:              0           0           0
+
+🗃️ Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.5G  4.3G  37% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  876K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  144M  676M  18% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+=============================
+2025-06-07 14:12:48
+=============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  9.1 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+RAM Usage:
+               total        used        free      shared  buff/cache   available
+Mem:             957         338         292           0         487         619
+Swap:              0           0           0
+
+🗃️ Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.5G  4.3G  37% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  876K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  144M  676M  18% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
