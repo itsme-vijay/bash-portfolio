@@ -1,29 +1,30 @@
 #!/bin/bash
 
-echo "[$(/usr/bin/date)] CRON CALLED ME" >> /tmp/cron-debug.log
+
 
 # Create a timestamp
 timestamp=$(date "+%Y-%m-%d %H:%M:%S")
 
 # Start the log entry
-echo "=============================" >> system-health.log
-echo "$timestamp" >> system-health.log
-echo "=============================" >> system-health.log
+echo "=============================" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "$timestamp" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "=============================" >> /home/ubuntu/bash-portfolio/day5/system-health.log
 
 # CPU usage
-echo "" >> system-health.log
-echo "CPU Usage:" >> system-health.log
-top -bn1 | grep "Cpu(s)" >> system-health.log
+echo "" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "CPU Usage:" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+top -bn1 | grep "Cpu(s)" >> /home/ubuntu/bash-portfolio/day5/system-health.log
 
 # RAM usage
-echo "" >> system-health.log
-echo "RAM Usage:" >> system-health.log
-free -m >> system-health.log
+echo "" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "RAM Usage:" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+free -m >> /home/ubuntu/bash-portfolio/day5/system-health.log
+
 
 # Disk usage
-echo "" >> system-health.log
-echo "🗃️ Disk Usage:" >> system-health.log
-df -h >> system-health.log
+echo "" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "🗃️ Disk Usage:" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+df -h >> /home/ubuntu/bash-portfolio/day5/system-health.log
 
 # Done
-echo "Log saved to system-health.log"
+echo "Log saved to system-health.log" >> /home/ubuntu/bash-portfolio/day5/system-health.log
