@@ -1,0 +1,3 @@
+# Ignore system log files created by the script
+day5/system-health.log
+cron-debug.log
