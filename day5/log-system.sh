@@ -27,4 +27,4 @@ echo "🗃️ Disk Usage:" >> /home/ubuntu/bash-portfolio/day5/system-health.log
 df -h >> /home/ubuntu/bash-portfolio/day5/system-health.log
 
 # Done
-echo "Log saved to system-health.log" >> /home/ubuntu/bash-portfolio/day5/system-health.log
+echo "Log  saved to system-health.log" >> /home/ubuntu/bash-portfolio/day5/system-health.log
