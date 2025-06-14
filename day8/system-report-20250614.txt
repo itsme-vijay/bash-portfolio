@@ -1,0 +1,20 @@
+System Health Report ----- Sat Jun 14 05:33:11 UTC 2025
+--------------------------------
+----CPU USAGE----
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  9.1 st 
+----RAM USAGE----
+               total        used        free      shared  buff/cache   available
+Mem:             957         313         359           0         440         643
+Swap:              0           0           0
+----DISK USAGE----
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  2.5G  4.3G  37% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  864K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  144M  676M  18% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+Logged in Users:
+ubuntu   pts/0        2025-06-14 04:12 (85.255.236.203)
+Report generated
