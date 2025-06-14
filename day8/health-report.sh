@@ -7,8 +7,10 @@ echo "System Health Report ----- $(date)" > $report
 echo "--------------------------------" >> $report
 
 #CPU Usage
+echo "---------------------" >> $report
 echo "----CPU USAGE----" >> $report
 top -bn1 | grep "Cpu(s)" >> $report
+echo "---------------------" >> $report
 
 #RAM Usage
 echo "----RAM USAGE----" >> $report
